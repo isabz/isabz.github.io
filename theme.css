@@ -1,0 +1,16 @@
+body {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    background-color: #ffe7ff;
+  }
+
+.navcustom {
+  background-color: #68246D;
+}
+
+.mainsection {
+  margin: auto;
+  margin-top: 1%;
+  background-color: #e3c3e3;
+  width: 50%;
+}

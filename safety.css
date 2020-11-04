@@ -1,0 +1,44 @@
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.section h2 {
+    padding: 32px 0;
+    font-size: 36px;
+    margin: 0;
+}
+
+.section p {
+    text-align: justify;
+    padding: 18px 0;
+    font-size: 18px;
+}
+
+.section p.source {
+    text-align: justify;
+    padding: 0;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.section p.source a {
+    text-decoration: underline;
+    color: blue;
+}
+
+.section .image p {
+    width: min(90%, 500px);
+    margin: auto;
+    font-size: 14px;
+    padding: 2px 8px;
+    background-color: #0000008a;
+    color: white;
+    transform: translateY(-100%);
+}
+
+.section .image img {
+    max-width: min(90%, 500px);
+    max-height: 500px;
+    margin: auto;
+}

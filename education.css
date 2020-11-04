@@ -1,0 +1,26 @@
+body {
+  font-family: "Work Sans", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.7;
+  color: #777777;
+  color: #7f7f7f;
+  background: #fff;
+  height: 100%;
+  position: relative;
+}
+
+li {
+  margin-left: 20px;
+}
+
+li {
+  margin-left: 20px;
+}
+ 
+
+.section .image img {
+    max-width: min(90%, 500px);
+    max-height: 500px
+    margin: auto;
+}
