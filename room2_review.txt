@@ -1,0 +1,9 @@
+Review of room 1:
+-Interest of content				-	Excellent	Valid applications of comp sci. However 3 topics have no commonality.
+-Consistency and quality of visual presentation	-	Acceptable	All pages reference bootsrap. Beyond that, they have unique style sheets, and are inconsistent.
+-Quality of written presentation		-	Excellent	Presentation is perfect for Safety, mediocre for medicine and home, and poor for education.
+-Validity of HTML				-	Excellent	1 warning. 2 errors. (initially image didn't load)
+-Evidence of collaboration including:				
+	-Author info not written by author	-	Sound		No evidence of seperate commits
+	-Balanced contributions from members	-	Very Good	Clear evidence that pages have different authors, based on programming style.
+	-Not completed at the last minute	-	Weak		Commit submitted at 10:58
