@@ -10,9 +10,3 @@ body {
   position: relative;
 }
 
-
-.section .image img {
-    max-width: min(90%, 500px);
-    max-height: 500px
-    margin: auto;
-}

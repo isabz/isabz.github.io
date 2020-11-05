@@ -3,3 +3,9 @@
     padding: 18px 0;
     font-size: 18px;
 }
+
+body {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    background-color: #ffe7ff;
+  }
